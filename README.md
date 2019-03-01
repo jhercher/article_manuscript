@@ -9,8 +9,6 @@ Inhalte u.a.:
 * Git 
 * [qpdf](http://qpdf.sourceforge.net/) und [tesseract](https://github.com/tesseract-ocr/)
 
-
-
 Für weitere Infos zum Workshop siehe [Hackpad zum Workshop](https://hackmd.io/d2EAr1E5Szusjik0y3JI1Q?both)
 Sowie https://github.com/konrad/Bits_and_pieces_for_the_carpentries_workshops
 
@@ -20,5 +18,7 @@ Sowie https://github.com/konrad/Bits_and_pieces_for_the_carpentries_workshops
 - [ ] Foto hochladen
 - [ ] Mehr Links
 - [ ] Mit >drei Personen am Repository arbeiten 
+- [ ] Zu einer [Hackyhour](https://hackyhour.github.io)
+ gehen 
 
 
