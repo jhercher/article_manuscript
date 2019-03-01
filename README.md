@@ -11,8 +11,11 @@ Inhalte u.a.:
 Für weitere Infos zum Workshop siehe [Hackpad zum Workshop](https://hackmd.io/d2EAr1E5Szusjik0y3JI1Q?both)
 
 
-TODO: 
+**TODO:** 
 
- [] Lessons learnt im Manuskript hinterlegen
+- [ ] Lessons learnt im Manuskript hinterlegen
+- [ ] Foto hochladen
+- [ ] Mehr Links
+- [ ] Mit >drei Personen am Repository arbeiten 
 
 
