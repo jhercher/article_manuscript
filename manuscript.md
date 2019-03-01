@@ -2,7 +2,7 @@ Autor: Johannes Hercher
 
 Title: Beispiel Manuskript
 
-datum: heute
+Datum: 1. März 2019
 
 
 ----------------
